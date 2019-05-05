@@ -1,0 +1,353 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/talk/example/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/zh/talk/example/" hreflang="zh"/>
+    
+      <loc>/talk/example/</loc>
+      <lastmod>2030-06-01T13:00:00+08:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/talk/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/zh/talk/" hreflang="zh"/>
+    
+      <loc>/talk/</loc>
+      <lastmod>2030-06-01T13:00:00+08:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/zh/" hreflang="zh"/>
+    
+      <loc>/</loc>
+      <lastmod>2030-06-01T13:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/publication_types/3/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/zh/publication_types/3/" hreflang="zh"/>
+    
+      <loc>/publication_types/3/</loc>
+      <lastmod>2019-04-07T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/publication/preprint/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/zh/publication/preprint/" hreflang="zh"/>
+    
+      <loc>/publication/preprint/</loc>
+      <lastmod>2019-04-07T00:00:00+08:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/authors/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/zh/authors/" hreflang="zh"/>
+    
+      <loc>/authors/</loc>
+      <lastmod>2019-04-07T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/publication_types/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/zh/publication_types/" hreflang="zh"/>
+    
+      <loc>/publication_types/</loc>
+      <lastmod>2019-04-07T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/publication/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/zh/publication/" hreflang="zh"/>
+    
+      <loc>/publication/</loc>
+      <lastmod>2019-04-07T00:00:00+08:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/source-themes/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/zh/tags/source-themes/" hreflang="zh"/>
+    
+      <loc>/tags/source-themes/</loc>
+      <lastmod>2019-04-07T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/zh/tags/" hreflang="zh"/>
+    
+      <loc>/tags/</loc>
+      <lastmod>2019-04-07T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/authors/admin/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/zh/authors/admin/" hreflang="zh"/>
+    
+      <loc>/authors/admin/</loc>
+      <lastmod>2019-04-07T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/post/jupyter/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/zh/post/jupyter/" hreflang="zh"/>
+    
+      <loc>/post/jupyter/</loc>
+      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/post/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/zh/post/" hreflang="zh"/>
+    
+      <loc>/post/</loc>
+      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tutorial/example/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/zh/tutorial/example/" hreflang="zh"/>
+    
+      <loc>/tutorial/example/</loc>
+      <lastmod>2018-09-09T00:00:00+08:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tutorial/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/zh/tutorial/" hreflang="zh"/>
+    
+      <loc>/tutorial/</loc>
+      <lastmod>2018-09-09T00:00:00+08:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/deep-learning/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/zh/tags/deep-learning/" hreflang="zh"/>
+    
+      <loc>/tags/deep-learning/</loc>
+      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/demo/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/zh/tags/demo/" hreflang="zh"/>
+    
+      <loc>/tags/demo/</loc>
+      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/project/external-project/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/zh/project/external-project/" hreflang="zh"/>
+    
+      <loc>/project/external-project/</loc>
+      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/project/internal-project/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/zh/project/internal-project/" hreflang="zh"/>
+    
+      <loc>/project/internal-project/</loc>
+      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/project/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/zh/project/" hreflang="zh"/>
+    
+      <loc>/project/</loc>
+      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/academic/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/zh/tags/academic/" hreflang="zh"/>
+    
+      <loc>/tags/academic/</loc>
+      <lastmod>2018-01-13T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/post/getting-started/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/zh/post/getting-started/" hreflang="zh"/>
+    
+      <loc>/post/getting-started/</loc>
+      <lastmod>2018-01-13T00:00:00+08:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/publication_types/2/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/zh/publication_types/2/" hreflang="zh"/>
+    
+      <loc>/publication_types/2/</loc>
+      <lastmod>2015-09-01T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/publication/journal-article/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/zh/publication/journal-article/" hreflang="zh"/>
+    
+      <loc>/publication/journal-article/</loc>
+      <lastmod>2015-09-01T00:00:00+08:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/categories/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/zh/categories/" hreflang="zh"/>
+    
+      <loc>/categories/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/post/2015-07-23-r-rmarkdown/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/zh/post/2015-07-23-r-rmarkdown/" hreflang="zh"/>
+    
+      <loc>/post/2015-07-23-r-rmarkdown/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/categories/r/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/zh/categories/r/" hreflang="zh"/>
+    
+      <loc>/categories/r/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/r-markdown/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/zh/tags/r-markdown/" hreflang="zh"/>
+    
+      <loc>/tags/r-markdown/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/plot/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/zh/tags/plot/" hreflang="zh"/>
+    
+      <loc>/tags/plot/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/regression/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/zh/tags/regression/" hreflang="zh"/>
+    
+      <loc>/tags/regression/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/publication_types/1/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/zh/publication_types/1/" hreflang="zh"/>
+    
+      <loc>/publication_types/1/</loc>
+      <lastmod>2013-07-01T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/publication/conference-paper/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/zh/publication/conference-paper/" hreflang="zh"/>
+    
+      <loc>/publication/conference-paper/</loc>
+      <lastmod>2013-07-01T00:00:00+08:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/authors/robert-ford/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/zh/authors/robert-ford/" hreflang="zh"/>
+    
+      <loc>/authors/robert-ford/</loc>
+      <lastmod>2013-07-01T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/author/admin/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/zh/author/admin/" hreflang="zh"/>
+    
+      <loc>/author/admin/</loc>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/author/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/zh/author/" hreflang="zh"/>
+    
+      <loc>/author/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/slides/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/zh/slides/" hreflang="zh"/>
+    
+      <loc>/slides/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="/slides/example/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/zh/slides/example/" hreflang="zh"/>
+    
+      <loc>/slides/example/</loc>
+    </url>
+  
+</urlset>
